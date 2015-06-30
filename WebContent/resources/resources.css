@@ -3,7 +3,13 @@
 body
 
 {
+	
 	color: #000000;
 	background-color: #c0c0c0;
 	margin-fat: luca;
+}
+
+p
+{
+	color:blue;
 }
